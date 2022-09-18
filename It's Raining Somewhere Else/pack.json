@@ -1,0 +1,9 @@
+{
+  "name": "It's Raining Somewhere Else",
+  "description": "Toby Fox - Undertale",
+  "author": "MrFlappi",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
