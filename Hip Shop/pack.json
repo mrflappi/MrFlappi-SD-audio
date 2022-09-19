@@ -1,0 +1,9 @@
+{
+  "name": "Hip Shop",
+  "description": "from Deltarune by Toby Fox",
+  "author": "MrFlappi",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
